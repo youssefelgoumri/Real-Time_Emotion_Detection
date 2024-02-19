@@ -47,3 +47,6 @@ You can customize the application by modifying the following:
 * Model: You can replace the pre-trained emotion detection model (model_no_disgust_emotion.h5) with your own trained model if desired. Ensure that the model architecture matches and the input dimensions are appropriate.
 * Face Detection: If you find that the face detection is not accurate enough, you can experiment with different Haar cascade classifiers or use other face detection techniques.
 * User Interface: If you want to enhance the user interface or add additional features, you can modify the emotion_detection.py script accordingly.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
