@@ -41,6 +41,19 @@ This desktop application utilizes computer vision techniques and deep learning m
 
 4. Press the 'q' key to quit the application.
 
+
+## Demo
+
+
+
+
+
+https://github.com/youssefelgoumri/Real-Time_Emotion_Detection/assets/94170257/ef16ede2-3501-485d-8bd4-2a2a97e646f0
+
+
+
+
+
 ## Customization
 You can customize the application by modifying the following:
 
